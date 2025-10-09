@@ -1,0 +1,7 @@
+C:\Users\kuruczg\source\repos\KuruczG-C#feladatok\KuruczG-C#feladatok\bin\Debug\KuruczG-C#feladatok.exe.config
+C:\Users\kuruczg\source\repos\KuruczG-C#feladatok\KuruczG-C#feladatok\bin\Debug\KuruczG-C#feladatok.exe
+C:\Users\kuruczg\source\repos\KuruczG-C#feladatok\KuruczG-C#feladatok\bin\Debug\KuruczG-C#feladatok.pdb
+C:\Users\kuruczg\source\repos\KuruczG-C#feladatok\KuruczG-C#feladatok\obj\Debug\KuruczG-C#feladatok.csproj.AssemblyReference.cache
+C:\Users\kuruczg\source\repos\KuruczG-C#feladatok\KuruczG-C#feladatok\obj\Debug\KuruczG-C#feladatok.csproj.CoreCompileInputs.cache
+C:\Users\kuruczg\source\repos\KuruczG-C#feladatok\KuruczG-C#feladatok\obj\Debug\KuruczG-C#feladatok.exe
+C:\Users\kuruczg\source\repos\KuruczG-C#feladatok\KuruczG-C#feladatok\obj\Debug\KuruczG-C#feladatok.pdb
